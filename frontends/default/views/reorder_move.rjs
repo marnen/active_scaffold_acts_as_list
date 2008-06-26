@@ -1,0 +1,1 @@
+page.replace_html active_scaffold_content_id, :partial => 'list'

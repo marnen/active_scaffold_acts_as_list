@@ -1,0 +1,8 @@
+/* IE hacks
+   ==================================== */
+.active-scaffold .records .actions a.action img
+{
+  /* Not currently implementing a transparent PNG fix because it isn't straightforward in just CSS for img tags.
+   * It could be supported via a HTC control like the one found here http://www.twinhelix.com/css/iepngfix/
+   */
+}
